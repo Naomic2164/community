@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
+  <defs>
+    <linearGradient id="g2" x1="0" x2="1">
+      <stop offset="0" stop-color="#fff5f5"/>
+      <stop offset="1" stop-color="#ffe0e0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="600" fill="url(#g2)"/>
+  <g transform="translate(80 60)">
+    <text x="0" y="60" font-family="Segoe UI, Arial" font-size="56" fill="#FF6F61">Community Helper App</text>
+    <text x="0" y="120" font-family="Segoe UI, Arial" font-size="28" fill="#333">Volunteer locally — help neighbors today</text>
+    <g transform="translate(860 280)" fill="#FF6F61">
+      <rect x="0" y="0" width="220" height="220" rx="28" fill="#FF6F61"/>
+      <path d="M110 40c-22 0-36 13-46 24-10-11-24-24-46-24-22 0-44 22-44 60 0 60 88 104 88 104s88-44 88-104c0-38-22-60-44-60z" fill="#fff"/>
+    </g>
+  </g>
+</svg>
